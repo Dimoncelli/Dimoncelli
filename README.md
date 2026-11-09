@@ -5,7 +5,7 @@
   <br />
 
   <h1>Javier García Camacho</h1>
-  <p><strong>Software Architect & AI Engineer · Multi-Agent Orchestration · Resilient Cloud Systems</strong></p>
+  <p><strong>Técnico de Integraciones · APIs, Automatizaciones & Sistemas de Conectividad</strong></p>
 
   <p>
     <a href="https://x.com/Dimoncelli"><img src="https://img.shields.io/badge/X-@Dimoncelli-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -17,45 +17,43 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 🔌 Sobre mí
 
-Software architect and engineer based in **Madrid, Spain**, focused on building autonomous agent architectures, multi-LLM orchestration pipelines, and high-reliability cloud platforms.
+Técnico especialista en **integraciones, flujos de datos y automatización entre plataformas**, con base en **Madrid, España**. Conecto sistemas dispares, diseño flujos robustos de APIs (REST, SOAP, Webhooks) y automatizo procesos de negocio para que la información fluya sin fricción ni fallos silenciosos.
 
-* 🧠 **Autonomous Systems:** Architecting multi-agent production loops (Elephant-Goldfish paradigm, sterile execution rooms, adversarial audit gates).
-* 🛡️ **Author of [`cold-jury`](https://github.com/Dimoncelli/cold-jury):** Cross-CLI hostile code reviewer (Claude, Codex, Gemini, OpenCode, Ollama) with zero external dependencies and deterministic security gating.
-* 🚀 **Products in Flight:**
-  * **Karuma UCP** — B2B diagnostic engine and agentic commerce protocol readiness platform.
-  * **RebillKit** — Zero-knowledge BYOK Stripe payment recovery and dunning infrastructure.
-* ✍️ **Technical Writing:** Sharing deep dives on agentic architecture, LLM economics, and system design on [Hashnode](https://dimoncelli.hashnode.dev) & [DEV.to](https://dev.to/dimoncelli).
+* 🔄 **Conectividad & Middleware:** Integración de APIs REST / SOAP, webhooks, transferencias seguras (SFTP) y normalización de formatos heterogéneos (JSON, XML, CSV).
+* 🛡️ **Autor de [`cold-jury`](https://github.com/Dimoncelli/cold-jury):** Auditor de código en entorno estéril y zero-dependencies con control determinista de secretos y calidad.
+* ⚙️ **Herramientas & Pasarelas:** Integraciones logísticas y bancarias (APIs de envíos, Stripe, pasarelas de pago, procesamiento desatendido).
+* ✍️ **Divulgación:** Artículos y notas sobre flujos de integración, herramientas para desarrolladores y automatización en [Hashnode](https://dimoncelli.hashnode.dev) y [DEV.to](https://dev.to/dimoncelli).
 
 ---
 
-### 🛠️ Core Tech Arsenal
+### 🛠️ Ecosistema Técnico
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>⚡ Languages & Core</h4>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <h4>🔌 Integraciones & APIs</h4>
+      <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=flat-square&logo=postman&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/SOAP%20%2F%20XML-E65100?style=flat-square&logo=xml&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Webhooks%20%26%20Events-43A047?style=flat-square&logo=socketdotio&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Postman%20Collections-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Stripe%20API-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Lenguajes & Scripting</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Bash%20%2F%20POSIX-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash%20%2F%20PowerShell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h4>🤖 AI & Orchestration</h4>
-      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-00C49F?style=flat-square&logo=dependabot&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/DeepSeek%20%2F%20Ollama-008080?style=flat-square&logo=openai&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/AppSec%20%26%20Anti--Injection-DC2626?style=flat-square&logo=shield&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Firebase%20Platform-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br/>
+      <h4>☁️ Datos & Despliegue</h4>
+      <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20SQLite-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/SFTP%20%2F%20ETL%20Pipelines-2E7D32?style=flat-square&logo=files&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
   </tr>
@@ -63,17 +61,18 @@ Software architect and engineer based in **Madrid, Spain**, focused on building 
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 Proyectos & Utilidades
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[`cold-jury`](https://github.com/Dimoncelli/cold-jury)** | Cross-CLI sterile room adversarial code review gate (Claude, Codex, Gemini, OpenCode, Ollama). Zero external dependencies, deterministic PASS/BLOCK. | `POSIX / Node / Python` | 🟢 **Open Source** |
-| **`karuma-ucp`** | B2B agentic commerce protocol & universal commerce profile diagnostic platform. | `Next.js 15, TypeScript, Cloud Run` | 🚀 **In Production** |
-| **`rebillkit`** | Zero-knowledge BYOK failed-payment automated recovery engine for modern subscription platforms. | `TypeScript, Stripe API, Firebase, Cloud Run` | 🚀 **Active Platform** |
+| Repositorio / Proyecto | Enfoque | Tecnologías |
+| :--- | :--- | :--- |
+| **[`cold-jury`](https://github.com/Dimoncelli/cold-jury)** | Puerta de revisión estéril y adversarial entre CLIs de IA sin dependencias externas. | `POSIX / Node / Python` |
+| **`Generador-proyectos-Postman`** | Generación automatizada de proyectos Postman para APIs RESTful y SOAP de paquetería y logística. | `Postman / API Integration` |
+| **`ScriptCSVGamesa`** | Pipeline de conversión automatizada Excel a CSV, transferencia segura SFTP y alertas por email. | `Python / SFTP / ETL` |
+| **`rebillkit`** | Motor de recuperación desatendida de pagos fallidos con Stripe y cifrado local BYOK. | `TypeScript / Stripe API / Cloud Run` |
 
 ---
 
-### 📊 Engineering Activity
+### 📊 Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dimoncelli&show_icons=true&theme=nightowl&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=34d399&bg_color=0a192f" alt="Dimoncelli's GitHub stats" width="48%" />
@@ -83,5 +82,5 @@ Software architect and engineer based in **Madrid, Spain**, focused on building 
 <br/>
 
 <div align="center">
-  <sub>Designed with precision · Madrid, Spain · <a href="https://github.com/Dimoncelli">@Dimoncelli</a></sub>
+  <sub>Integraciones y Conectividad · Madrid, España · <a href="https://github.com/Dimoncelli">@Dimoncelli</a></sub>
 </div>
